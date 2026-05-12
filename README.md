@@ -21,11 +21,6 @@ PKU 2026 Spring 数据库概论实习三: 基于SQL的数据分析实习
 
 ## 执行顺序
 ```bash
-mysql -u root -p --default-character-set=utf8mb4 < sql/00_create_database.sql
-python scripts/load_raw_data.py --user root
-mysql -u root -p --default-character-set=utf8mb4 dbproj3 < sql/task1_preprocessing.sql
-mysql -u root -p --default-character-set=utf8mb4 dbproj3 < sql/task2_movielens_analysis.sql
-mysql -u root -p --default-character-set=utf8mb4 dbproj3 < sql/task3_happiness_entropy.sql
-python scripts/export_results.py --user root
+python scripts/run_sqlite_pipeline.py
 jupyter notebook reports/final_report.ipynb
 ```
