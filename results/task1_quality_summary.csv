@@ -1,0 +1,7 @@
+﻿metric,value
+invalid_name,1
+invalid_phone,4
+invalid_email,5
+invalid_date,2
+unknown_age,2
+empty_remark_after_cleaning,3

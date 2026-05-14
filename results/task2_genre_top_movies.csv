@@ -1,0 +1,191 @@
+﻿genre,genre_rank,movieId,title,rating_count,avg_rating
+Action,1,1927,All Quiet on the Western Front (1930),13,4.5
+Action,2,3000,Princess Mononoke (Mononoke-hime) (1997),52,4.385
+Action,3,3265,Hard-Boiled (Lat sau san taam) (1992),13,4.308
+Action,4,908,North by Northwest (1959),73,4.274
+Action,5,1224,Henry V (1989),22,4.273
+Action,6,5782,"Professional, The (Le professionnel) (1981)",22,4.273
+Action,7,2571,"Matrix, The (1999)",261,4.264
+Action,8,1209,Once Upon a Time in the West (C'era una volta il West) (1968),23,4.261
+Action,9,1254,"Treasure of the Sierra Madre, The (1948)",26,4.25
+Action,10,1218,"Killer, The (Die xue shuang xiong) (1989)",20,4.25
+Adventure,1,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),22,4.477
+Adventure,2,3000,Princess Mononoke (Mononoke-hime) (1997),52,4.385
+Adventure,3,1136,Monty Python and the Holy Grail (1975),154,4.302
+Adventure,4,908,North by Northwest (1959),73,4.274
+Adventure,5,1254,"Treasure of the Sierra Madre, The (1948)",26,4.25
+Adventure,6,3629,"Gold Rush, The (1925)",10,4.25
+Adventure,7,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),72,4.236
+Adventure,8,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",45,4.233
+Adventure,9,1196,Star Wars: Episode V - The Empire Strikes Back (1980),228,4.228
+Adventure,10,1216,"Big Blue, The (Grand bleu, Le) (1988)",11,4.227
+Animation,1,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),22,4.477
+Animation,2,3429,Creature Comforts (1989),13,4.462
+Animation,3,3000,Princess Mononoke (Mononoke-hime) (1997),52,4.385
+Animation,4,5971,My Neighbor Totoro (Tonari no Totoro) (1988),28,4.321
+Animation,5,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),72,4.236
+Animation,6,79008,South Park: Imaginationland (2008),11,4.227
+Animation,7,1223,"Grand Day Out with Wallace and Gromit, A (1989)",42,4.179
+Animation,8,1148,Wallace & Gromit: The Wrong Trousers (1993),77,4.169
+Animation,9,5690,Grave of the Fireflies (Hotaru no haka) (1988),18,4.167
+Animation,10,745,Wallace & Gromit: A Close Shave (1995),55,4.164
+Children,1,5971,My Neighbor Totoro (Tonari no Totoro) (1988),28,4.321
+Children,2,1223,"Grand Day Out with Wallace and Gromit, A (1989)",42,4.179
+Children,3,1148,Wallace & Gromit: The Wrong Trousers (1993),77,4.169
+Children,4,745,Wallace & Gromit: A Close Shave (1995),55,4.164
+Children,5,68954,Up (2009),62,4.153
+Children,6,78499,Toy Story 3 (2010),35,4.143
+Children,7,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),18,4.139
+Children,8,2804,"Christmas Story, A (1983)",61,4.123
+Children,9,919,"Wizard of Oz, The (1939)",111,4.09
+Children,10,2138,Watership Down (1978),12,4.083
+Comedy,1,3429,Creature Comforts (1989),13,4.462
+Comedy,2,66934,Dr. Horrible's Sing-Along Blog (2008),23,4.435
+Comedy,3,92259,Intouchables (2011),23,4.391
+Comedy,4,945,Top Hat (1935),13,4.308
+Comedy,5,1136,Monty Python and the Holy Grail (1975),154,4.302
+Comedy,6,1235,Harold and Maude (1971),33,4.288
+Comedy,7,608,Fargo (1996),201,4.271
+Comedy,8,2324,Life Is Beautiful (La Vita è bella) (1997),73,4.253
+Comedy,9,94959,Moonrise Kingdom (2012),16,4.25
+Comedy,10,3359,Breaking Away (1979),12,4.25
+Crime,1,1248,Touch of Evil (1958),21,4.476
+Crime,2,318,"Shawshank Redemption, The (1994)",308,4.455
+Crime,3,858,"Godfather, The (1972)",210,4.393
+Crime,4,1945,On the Waterfront (1954),35,4.371
+Crime,5,50,"Usual Suspects, The (1995)",228,4.329
+Crime,6,1252,Chinatown (1974),68,4.324
+Crime,7,3265,Hard-Boiled (Lat sau san taam) (1992),13,4.308
+Crime,8,608,Fargo (1996),201,4.271
+Crime,9,1284,"Big Sleep, The (1946)",28,4.268
+Crime,10,1260,M (1931),21,4.262
+Documentary,1,2677,Buena Vista Social Club (1999),11,4.182
+Documentary,2,80906,Inside Job (2010),11,4.182
+Documentary,3,3677,Baraka (1992),10,4.15
+Documentary,4,77455,Exit Through the Gift Shop (2010),14,4.143
+Documentary,5,1189,"Thin Blue Line, The (1988)",11,4.136
+Documentary,6,246,Hoop Dreams (1994),36,4.083
+Documentary,7,4102,Eddie Murphy Raw (1987),10,4.05
+Documentary,8,7256,Touching the Void (2003),15,4.0
+Documentary,9,7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",13,4.0
+Documentary,10,1111,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996),11,4.0
+Drama,1,1178,Paths of Glory (1957),19,4.5
+Drama,2,1927,All Quiet on the Western Front (1930),13,4.5
+Drama,3,1730,Kundun (1997),10,4.5
+Drama,4,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),22,4.477
+Drama,5,1172,Cinema Paradiso (Nuovo cinema Paradiso) (1989),37,4.459
+Drama,6,318,"Shawshank Redemption, The (1994)",308,4.455
+Drama,7,66934,Dr. Horrible's Sing-Along Blog (2008),23,4.435
+Drama,8,1949,"Man for All Seasons, A (1966)",11,4.409
+Drama,9,1217,Ran (1985),31,4.403
+Drama,10,213,Burnt by the Sun (Utomlyonnye solntsem) (1994),10,4.4
+Fantasy,1,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),22,4.477
+Fantasy,2,3000,Princess Mononoke (Mononoke-hime) (1997),52,4.385
+Fantasy,3,5971,My Neighbor Totoro (Tonari no Totoro) (1988),28,4.321
+Fantasy,4,1136,Monty Python and the Holy Grail (1975),154,4.302
+Fantasy,5,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),72,4.236
+Fantasy,6,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",45,4.233
+Fantasy,7,79008,South Park: Imaginationland (2008),11,4.227
+Fantasy,8,61240,Let the Right One In (Låt den rätte komma in) (2008),23,4.196
+Fantasy,9,1197,"Princess Bride, The (1987)",171,4.164
+Fantasy,10,78499,Toy Story 3 (2010),35,4.143
+Film-Noir,1,1248,Touch of Evil (1958),21,4.476
+Film-Noir,2,1252,Chinatown (1974),68,4.324
+Film-Noir,3,930,Notorious (1946),18,4.306
+Film-Noir,4,1212,"Third Man, The (1949)",36,4.292
+Film-Noir,5,1284,"Big Sleep, The (1946)",28,4.268
+Film-Noir,6,1260,M (1931),21,4.262
+Film-Noir,7,2186,Strangers on a Train (1951),26,4.231
+Film-Noir,8,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),29,4.224
+Film-Noir,9,1245,Miller's Crossing (1990),28,4.214
+Film-Noir,10,913,"Maltese Falcon, The (1941)",62,4.169
+Horror,1,61240,Let the Right One In (Låt den rätte komma in) (2008),23,4.196
+Horror,2,593,"Silence of the Lambs, The (1991)",290,4.195
+Horror,3,1219,Psycho (1960),86,4.186
+Horror,4,1200,Aliens (1986),157,4.146
+Horror,5,2762,"Sixth Sense, The (1999)",191,4.131
+Horror,6,1214,Alien (1979),156,4.064
+Horror,7,1348,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",17,4.059
+Horror,8,8874,Shaun of the Dead (2004),60,4.05
+Horror,9,7022,Battle Royale (Batoru rowaiaru) (2000),32,4.031
+Horror,10,1258,"Shining, The (1980)",112,4.004
+IMAX,1,79132,Inception (2010),103,4.189
+IMAX,2,104841,Gravity (2013),16,4.188
+IMAX,3,78499,Toy Story 3 (2010),35,4.143
+IMAX,4,58559,"Dark Knight, The (2008)",127,4.142
+IMAX,5,91529,"Dark Knight Rises, The (2012)",41,4.122
+IMAX,6,109487,Interstellar (2014),38,4.066
+IMAX,7,88125,Harry Potter and the Deathly Hallows: Part 2 (2011),28,4.054
+IMAX,8,105504,Captain Phillips (2013),10,4.05
+IMAX,9,33794,Batman Begins (2005),101,4.04
+IMAX,10,106487,"Hunger Games: Catching Fire, The (2013)",16,4.031
+Musical,1,66934,Dr. Horrible's Sing-Along Blog (2008),23,4.435
+Musical,2,945,Top Hat (1935),13,4.308
+Musical,3,3545,Cabaret (1972),18,4.25
+Musical,4,2677,Buena Vista Social Club (1999),11,4.182
+Musical,5,914,My Fair Lady (1964),50,4.17
+Musical,6,1947,West Side Story (1961),42,4.167
+Musical,7,2941,South Pacific (1958),12,4.125
+Musical,8,899,Singin' in the Rain (1952),49,4.112
+Musical,9,919,"Wizard of Oz, The (1939)",111,4.09
+Musical,10,3549,Guys and Dolls (1955),14,4.036
+Mystery,1,7371,Dogville (2003),10,4.4
+Mystery,2,923,Citizen Kane (1941),77,4.396
+Mystery,3,8228,"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)",13,4.346
+Mystery,4,904,Rear Window (1954),74,4.331
+Mystery,5,50,"Usual Suspects, The (1995)",228,4.329
+Mystery,6,1252,Chinatown (1974),68,4.324
+Mystery,7,5008,Witness for the Prosecution (1957),11,4.318
+Mystery,8,1212,"Third Man, The (1949)",36,4.292
+Mystery,9,908,North by Northwest (1959),73,4.274
+Mystery,10,1284,"Big Sleep, The (1946)",28,4.268
+Romance,1,945,Top Hat (1935),13,4.308
+Romance,2,44555,"Lives of Others, The (Das leben der Anderen) (2006)",31,4.306
+Romance,3,930,Notorious (1946),18,4.306
+Romance,4,1235,Harold and Maude (1971),33,4.288
+Romance,5,908,North by Northwest (1959),73,4.274
+Romance,6,1224,Henry V (1989),22,4.273
+Romance,7,446,Farewell My Concubine (Ba wang bie ji) (1993),19,4.263
+Romance,8,2324,Life Is Beautiful (La Vita è bella) (1997),73,4.253
+Romance,9,94959,Moonrise Kingdom (2012),16,4.25
+Romance,10,3629,"Gold Rush, The (1925)",10,4.25
+Sci-Fi,1,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),22,4.477
+Sci-Fi,2,66934,Dr. Horrible's Sing-Along Blog (2008),23,4.435
+Sci-Fi,3,2571,"Matrix, The (1999)",261,4.264
+Sci-Fi,4,27611,Battlestar Galactica (2003),19,4.263
+Sci-Fi,5,106920,Her (2013),19,4.237
+Sci-Fi,6,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",45,4.233
+Sci-Fi,7,1196,Star Wars: Episode V - The Empire Strikes Back (1980),228,4.228
+Sci-Fi,8,260,Star Wars: Episode IV - A New Hope (1977),273,4.189
+Sci-Fi,9,79132,Inception (2010),103,4.189
+Sci-Fi,10,104841,Gravity (2013),16,4.188
+Thriller,1,1248,Touch of Evil (1958),21,4.476
+Thriller,2,7371,Dogville (2003),10,4.4
+Thriller,3,904,Rear Window (1954),74,4.331
+Thriller,4,50,"Usual Suspects, The (1995)",228,4.329
+Thriller,5,1252,Chinatown (1974),68,4.324
+Thriller,6,5008,Witness for the Prosecution (1957),11,4.318
+Thriller,7,3265,Hard-Boiled (Lat sau san taam) (1992),13,4.308
+Thriller,8,44555,"Lives of Others, The (Das leben der Anderen) (2006)",31,4.306
+Thriller,9,930,Notorious (1946),18,4.306
+Thriller,10,1212,"Third Man, The (1949)",36,4.292
+War,1,1178,Paths of Glory (1957),19,4.5
+War,2,1927,All Quiet on the Western Front (1930),13,4.5
+War,3,1217,Ran (1985),31,4.403
+War,4,527,Schindler's List (1993),248,4.296
+War,5,1224,Henry V (1989),22,4.273
+War,6,27611,Battlestar Galactica (2003),19,4.263
+War,7,2324,Life Is Beautiful (La Vita è bella) (1997),73,4.253
+War,8,3811,Breaker Morant (1980),13,4.192
+War,9,1204,Lawrence of Arabia (1962),60,4.167
+War,10,5690,Grave of the Fireflies (Hotaru no haka) (1988),18,4.167
+Western,1,1209,Once Upon a Time in the West (C'era una volta il West) (1968),23,4.261
+Western,2,1254,"Treasure of the Sierra Madre, The (1948)",26,4.25
+Western,3,3365,"Searchers, The (1956)",11,4.227
+Western,4,2401,Pale Rider (1985),13,4.192
+Western,5,3681,For a Few Dollars More (Per qualche dollaro in più) (1965),23,4.174
+Western,6,1283,High Noon (1952),32,4.172
+Western,7,800,Lone Star (1996),35,4.171
+Western,8,714,Dead Man (1995),21,4.119
+Western,9,948,Giant (1956),15,4.1
+Western,10,82459,True Grit (2010),21,4.071
